@@ -1,9 +1,11 @@
 # Citi Bike Tableau Challenge
 
 ## Background
-<img width="557" alt="Screenshot 2023-11-05 at 2 54 30 PM" src="https://github.com/lmoore5460/Citi-Bike-Tableau-Challenge/assets/135261756/b2887820-61fa-4515-95d4-d5f7513e3a3d">
 
 Congratulations on your new job! As the new lead analyst for the New York Citi BikeLinks to an external site. program, you are now responsible for overseeing the largest bike-sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
+
+<img width="557" alt="Screenshot 2023-11-05 at 2 54 30 PM" src="https://github.com/lmoore5460/Citi-Bike-Tableau-Challenge/assets/135261756/b2887820-61fa-4515-95d4-d5f7513e3a3d">
+
 
 ## Instructions
 - Aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena. Design 2–5 visualizations for each discovered phenomenon.
