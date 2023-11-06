@@ -19,6 +19,8 @@ Congratulations on your new job! As the new lead analyst for the New York Citi B
   - Advanced: A dynamic map that shows how each station's popularity changes over time (by month and year). Again, with zip code data overlaid on the map.
   - The map you choose should also be accompanied by a write-up describing any trends that were noticed during your analysis.
 
+![Map](https://github.com/lmoore5460/Citi-Bike-Tableau-Challenge/assets/135261756/59d5df5d-2b66-4187-be8e-ea41d7e365ab)
+
 - Create your final presentation:
   - Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
   - Ensure your presentation is professional, logical, and visually appealing.
