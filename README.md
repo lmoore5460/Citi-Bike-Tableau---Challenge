@@ -6,6 +6,10 @@ Congratulations on your new job! As the new lead analyst for the New York Citi B
 
 <img width="557" alt="Screenshot 2023-11-05 at 2 54 30 PM" src="https://github.com/lmoore5460/Citi-Bike-Tableau-Challenge/assets/135261756/b2887820-61fa-4515-95d4-d5f7513e3a3d">
 
+![Dashboard 1](https://github.com/lmoore5460/Citi-Bike-Tableau-Challenge/assets/135261756/aafb1aa8-0f2b-461d-bb39-7ba7fdb662e6)
+
+
+
 
 ## Instructions
 - Aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena. Design 2–5 visualizations for each discovered phenomenon.
